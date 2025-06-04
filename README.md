@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **in SoftUni, School.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yani-Jivkov](https://github.com/Yani-Jivkov)
+- 👨‍💻 All of my projects are available here [https://github.com/Yani-Jivkov](https://github.com/Yani-Jivkov)
 
 - 💬 Ask me about **python or anything!**
 
