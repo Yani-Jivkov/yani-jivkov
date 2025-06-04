@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[(https://www.facebook.com/profile.php?id=100035020577338)](https://www.facebook.com/share/15j6LJx4by/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="яни живков" height="30" width="40" /></a>
+<a href="[(https://www.facebook.com/profile.php?id=100035020577338)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="яни живков" height="30" width="40" /></a>
 <a href="https://instagram.com/zhivkovyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhivkov_yani" height="30" width="40" /></a>
 <a href="https://discord.gg/752122064269344828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="752122064269344828" height="30" width="40" /></a>
 </p>
